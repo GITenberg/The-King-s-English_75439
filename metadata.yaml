@@ -1,5 +1,8 @@
 _repo: The-King-s-English_75439
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75439-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Fowler, H. W. (Henry Watson)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1999
     wikipedia: https://en.wikipedia.org/wiki/Francis_George_Fowler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75439#The-King-s-English
 edition_note: Second edition
 gutenberg_issued: '2025-02-22'
 gutenberg_type: Text
